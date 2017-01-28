@@ -15,7 +15,11 @@ ahdoasdasf
 noooooooooonòóœøōõ
 >>>>>>> master
 
+<<<<<<< HEAD
 
 ssss
 
 ssss
+=======
+lalalalalalalalal
+>>>>>>> jueyBranch2
